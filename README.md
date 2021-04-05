@@ -88,3 +88,10 @@ Button(root, font = 'arial 15 bold',text = 'EXIT', width = '4' , command = Exit,
 root.mainloop()
 ```
 **root.mainloop()** is a method that executes when we want to run our program.
+
+### Output
+- GUI
+  <p align="left">
+  <a href="https://github.com/sahaavi/Convert-Text-to-Speech/blob/main/Output/GUI.jpg"><img width src="https://github.com/sahaavi/Convert-Text-to-Speech/blob/main/Output/GUI.jpg?raw=true" alt="HackerRank" height="400" width="250" ></a>
+    </p>
+- [Sound](https://github.com/sahaavi/Convert-Text-to-Speech/blob/main/Output/1.mp3)
